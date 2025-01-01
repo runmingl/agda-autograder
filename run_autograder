@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+cd /autograder/submission && python3 /autograder/autograder.py
